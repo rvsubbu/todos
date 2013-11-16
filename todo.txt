@@ -1,22 +1,109 @@
-Python
-Paul Campbell about Nisum + recruiter
-Call Manasa
-SiShelf Post
-Buy a cheap emulator from Best Buy
-Phonegap tutorial`
-JQuery
-JQueryMobile
-HTML5 & CSS
-PHP
-Nishi to create an account and send me a URL
-	Products - 
-		Bootcamp (linux bootcamp)
-		8 hour bootcamp on Mon & Tue
-		Webex
-Nishi's idea:
-	Ordering food:
-	Keeping food preferences and history in mind
-TCL - Graph megawidget
-Jobs - Cadence, Mentor, Synopsys
-backbone.js
-MIT multithreading course
+Today, Sat, Nov16:
+	Vidality - Get web server working, bring up profile
+	Music lessions for Kriya
+	Stitch the pant
+	Hema - Plants
+	Clean the windshield
+	Uptodate on C++ Course
+	Drop Sreya
+	Touch base with Vineet
+	Dental insurance
+	Vidality trip
+	Rajan
+	Paul Campbell about Nisum + recruiter
+	Install Webex on desktop
+	Coursera: Get uptodate on Python
+	Coursera: Get uptodate on Data Analysis
+	Coursera: Get uptodate on Algorithms
+	Coursera: Get uptodate on Design Thinking
+	Coursera: Web Intelligence & Big Data
+	edX: CS169.1x
+	edX: CS169.2x
+	SkillShare: Running Lean
+	Sreya tictactoe [Draw the board, Get the move, check whether won]
+	Skills - javascript (backbone.js book)
+	Resumes - EDA, India, Tech, Manager
+	Apply for one job
+	TCL - record & replay, debug, megawidget (Graph?)
+	Killawatt
+	eLance
+	TCL Prototype for notes project
+	Qt - Helloworld, schematic
+	Hema - clothes
+	Sreya - contact Ruth
+
+Tomorrow, Sun, Nov17:
+	Breakfast for Hema
+	Udacity
+	MIT multithreading course
+	Lego @ Irvington
+	Tennis
+	Gymnastics decision
+	Fix cycle
+	Trash
+	Jobs - Cadence, Mentor, Synopsys
+
+Mon, Nov18:
+	Nishi to create an account and send me a URL
+	Nishi (Attend 8 hour bootcamp)
+	Remind Sreya about hoodie/earphones/skirt
+	Drop SJ books
+	SanjivG (Set up meeting)
+	SunilP (Set up meeting)
+	Tomas
+	401K
+	Invest in stocks (virtual portfolio for 100K)
+	Pay gardener
+	Call Manasa
+
+Sat, Nov23:
+	Renew books
+
+Mon, Nov25:
+	Atthai
+	TK Ramesh (His plan, my plan, what can we do together?)
+	Mukesh
+	Shenba
+
+Schedule:
+	Send resume to Mohan
+	Become familiar with AWS
+	Indu Ramesh (What can we do together?)
+	Kriya electronics
+	NRE account
+	Malpi
+	Manish
+	Write for Manish
+	Jeyamohan
+	SiShelf Post
+	Buy a cheap emulator from Best Buy
+	Phonegap tutorial`
+	JQuery
+	JQueryMobile
+	HTML5 & CSS
+	PHP
+	Nishi's idea on Ordering food (Keeping a record of food preferences, history, Mahavir)
+
+Inbox:
+	Write an (FPGA) placer/router
+	Create a Hadoop training
+	Pudukkottai Kumar
+	Suresh Gopalratnam
+	Sridhar - Pranav's Dad
+	Ramani
+	Varun
+	Sivaguru
+	Sundaresh
+	LA Mohan
+	Bharatanatyam for Kriya
+	Prakash Bare
+	Vidya
+	Subba
+	Geography Bee
+	Balaji
+	Sundaresh
+	Mukin
+	Visu
+	Kaveri
+	Padmanabhan
+	Shanthi-Sriram-Nividha
