@@ -1,16 +1,12 @@
 Today, Sat, Nov16:
-	Vidality - Get web server working, bring up profile
-	Music lessions for Kriya
-	Stitch the pant
-	Hema - Plants
+	Dental insurance
+	Paul Campbell about Nisum + recruiter
+	Vidality - bring up profile
+	ChannelLive
+	Resumes - EDA, India, Tech, Manager
+	Apply for one job
 	Clean the windshield
 	Uptodate on C++ Course
-	Drop Sreya
-	Touch base with Vineet
-	Dental insurance
-	Vidality trip
-	Rajan
-	Paul Campbell about Nisum + recruiter
 	Install Webex on desktop
 	Coursera: Get uptodate on Python
 	Coursera: Get uptodate on Data Analysis
@@ -20,20 +16,18 @@ Today, Sat, Nov16:
 	edX: CS169.1x
 	edX: CS169.2x
 	SkillShare: Running Lean
-	Sreya tictactoe [Draw the board, Get the move, check whether won]
 	Skills - javascript (backbone.js book)
-	Resumes - EDA, India, Tech, Manager
-	Apply for one job
+	Vidality - Get web server working
+	Sreya tictactoe [Draw the board, Get the move, check whether won]
 	TCL - record & replay, debug, megawidget (Graph?)
 	Killawatt
 	eLance
 	TCL Prototype for notes project
 	Qt - Helloworld, schematic
-	Hema - clothes
-	Sreya - contact Ruth
 
 Tomorrow, Sun, Nov17:
 	Breakfast for Hema
+	Rajan
 	Udacity
 	MIT multithreading course
 	Lego @ Irvington
@@ -41,9 +35,17 @@ Tomorrow, Sun, Nov17:
 	Gymnastics decision
 	Fix cycle
 	Trash
-	Jobs - Cadence, Mentor, Synopsys
+	Cadence Jobs
+	Mentor Jobs
+	Synopsys Jobs
+	Hema - clothes
+	Sreya - contact Ruth
+	Music lessions for Kriya
+	Stitch the pant
+	Hema - Plants
 
 Mon, Nov18:
+	Touch base with Vineet
 	Nishi to create an account and send me a URL
 	Nishi (Attend 8 hour bootcamp)
 	Remind Sreya about hoodie/earphones/skirt
@@ -56,8 +58,12 @@ Mon, Nov18:
 	Pay gardener
 	Call Manasa
 
+Thu, Nov21:
+	Vidality trip
+
 Sat, Nov23:
 	Renew books
+	Sreya music class
 
 Mon, Nov25:
 	Atthai
@@ -85,6 +91,7 @@ Schedule:
 	Nishi's idea on Ordering food (Keeping a record of food preferences, history, Mahavir)
 
 Inbox:
+	SugarCRM
 	Write an (FPGA) placer/router
 	Create a Hadoop training
 	Pudukkottai Kumar
