@@ -1,51 +1,44 @@
-Today, Sat, Nov16:
-	Dental insurance
-	Paul Campbell about Nisum + recruiter
-	Vidality - bring up profile
-	ChannelLive
+Today, Mon, Nov18:
+	Clean the windshield
+	Sreya tictactoe [Draw the board, Get the move, check whether won]
+	C++ Course - Hex assignment
+	TCL Prototype for notes project
+	eLance
 	Resumes - EDA, India, Tech, Manager
 	Apply for one job
-	Clean the windshield
-	Uptodate on C++ Course
-	Install Webex on desktop
-	Coursera: Get uptodate on Python
-	Coursera: Get uptodate on Data Analysis
-	Coursera: Get uptodate on Algorithms
-	Coursera: Get uptodate on Design Thinking
-	Coursera: Web Intelligence & Big Data
+	Coursera: Python course
+	Qt - Helloworld
+	Coursera: Data Analysis course
+	Coursera: Algorithms course
+	Coursera: Design Thinking course
+	Coursera: Web Intelligence & Big Data course
 	edX: CS169.1x
 	edX: CS169.2x
 	SkillShare: Running Lean
 	Skills - javascript (backbone.js book)
 	Vidality - Get web server working
-	Sreya tictactoe [Draw the board, Get the move, check whether won]
-	TCL - record & replay, debug, megawidget (Graph?)
+	Vidality - bring up profile
 	Killawatt
-	eLance
-	TCL Prototype for notes project
-	Qt - Helloworld, schematic
-
-Tomorrow, Sun, Nov17:
-	Breakfast for Hema
-	Rajan
+	TCL - record & replay, debug, megawidget (Graph?)
 	Udacity
 	MIT multithreading course
 	Lego @ Irvington
-	Tennis
 	Gymnastics decision
-	Fix cycle
-	Trash
 	Cadence Jobs
 	Mentor Jobs
 	Synopsys Jobs
 	Hema - clothes
 	Sreya - contact Ruth
-	Music lessions for Kriya
-	Stitch the pant
+	Trash
+	Vaccum (downstairs, upstairs)
+	Fix cycle
+	Mini-Pharmacy
+	Qt - schematic
+	Uptodate on C++ Course (Dijkstra, HW3)
 	Hema - Plants
-
-Mon, Nov18:
-	Touch base with Vineet
+	Install Webex on desktop
+	Find violin/piano schedules at Mission Music for Kriya
+	Dental insurance
 	Nishi to create an account and send me a URL
 	Nishi (Attend 8 hour bootcamp)
 	Remind Sreya about hoodie/earphones/skirt
@@ -57,13 +50,27 @@ Mon, Nov18:
 	Invest in stocks (virtual portfolio for 100K)
 	Pay gardener
 	Call Manasa
+	ChannelLive - Why didn't we get the box?
+
+Tue, Nov19:
+	Hema breakfast
 
 Thu, Nov21:
-	Vidality trip
+	Touch base with Vineet
+	Gymnastics class
+
+Fri, Nov22:
+	Tennis
+	Stitch the pant
 
 Sat, Nov23:
 	Renew books
 	Sreya music class
+	Paul Campbell about Nisum + recruiter
+	Vidality trip
+
+Sun, Nov24:
+	Rajan
 
 Mon, Nov25:
 	Atthai
@@ -71,8 +78,18 @@ Mon, Nov25:
 	Mukesh
 	Shenba
 
+Wed, Jan1:
+	Shanthi-Sriram-Nividha
+	Sivaguru
+	LA Mohan
+	Pudukkottai Kumar
+	Sridhar - Pranav's Dad
+	Ramani
+	Varun
+	Bharatanatyam for Kriya
+	Geography Bee
+
 Schedule:
-	Send resume to Mohan
 	Become familiar with AWS
 	Indu Ramesh (What can we do together?)
 	Kriya electronics
@@ -83,34 +100,24 @@ Schedule:
 	Jeyamohan
 	SiShelf Post
 	Buy a cheap emulator from Best Buy
-	Phonegap tutorial`
+	Phonegap tutorial
 	JQuery
 	JQueryMobile
 	HTML5 & CSS
 	PHP
-	Nishi's idea on Ordering food (Keeping a record of food preferences, history, Mahavir)
-
-Inbox:
 	SugarCRM
 	Write an (FPGA) placer/router
 	Create a Hadoop training
-	Pudukkottai Kumar
-	Suresh Gopalratnam
-	Sridhar - Pranav's Dad
-	Ramani
-	Varun
-	Sivaguru
-	Sundaresh
-	LA Mohan
-	Bharatanatyam for Kriya
-	Prakash Bare
-	Vidya
-	Subba
-	Geography Bee
-	Balaji
-	Sundaresh
-	Mukin
-	Visu
-	Kaveri
-	Padmanabhan
-	Shanthi-Sriram-Nividha
+	Nishi's idea on Ordering food (Keeping a record of food preferences, history, Mahavir)
+	Rajinder Gupta
+
+Inbox:
+
+Dependencies:
+	Send Management & Tech resumes to Mohan
+	Post India resume at Wisdomjobs, naukri, shine
+	Sunday walk: Rajan Balaji Sundaresh Mukin Visu
+	SiShelf Meeting: Rajan Balaji Sundaresh Mukin Visu Kaveri Padmanabhan
+	Synopsys contract: Suresh Gopalratnam, Andy, Naresh, Igor, SunilS, BobE, AndrewD
+	Synopsys Contract: Prakash Bare, Vidya, Subba
+
