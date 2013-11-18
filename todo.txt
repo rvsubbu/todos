@@ -1,12 +1,20 @@
 Today, Mon, Nov18:
-	Clean the windshield
 	Sreya tictactoe [Draw the board, Get the move, check whether won]
+	Remind Sreya about hoodie/earphones/skirt
+	Nishi to create an account and send me a URL
+	Nishi (Attend 8 hour bootcamp)
+	Nish (Lego)
+	SunilP (Set up meeting)
+	Drop SJ books
+	Medical test
+	Call Manasa
 	C++ Course - Hex assignment
-	TCL Prototype for notes project
 	eLance
+	TCL Prototype for notes project
 	Resumes - EDA, India, Tech, Manager
-	Apply for one job
 	Coursera: Python course
+	Apply for one job
+	Clean the windshield
 	Qt - Helloworld
 	Coursera: Data Analysis course
 	Coursera: Algorithms course
@@ -16,44 +24,37 @@ Today, Mon, Nov18:
 	edX: CS169.2x
 	SkillShare: Running Lean
 	Skills - javascript (backbone.js book)
-	Vidality - Get web server working
-	Vidality - bring up profile
-	Killawatt
-	TCL - record & replay, debug, megawidget (Graph?)
 	Udacity
 	MIT multithreading course
-	Lego @ Irvington
+	Vidality - Get web server working
+	Vidality - bring up profile
+	TCL - record & replay, debug, megawidget (Graph?)
+	Killawatt
+	Vaccum (downstairs, upstairs)
 	Gymnastics decision
+	Mini-Pharmacy
+	Qt - schematic
 	Cadence Jobs
 	Mentor Jobs
 	Synopsys Jobs
 	Hema - clothes
 	Sreya - contact Ruth
 	Trash
-	Vaccum (downstairs, upstairs)
 	Fix cycle
-	Mini-Pharmacy
-	Qt - schematic
-	Uptodate on C++ Course (Dijkstra, HW3)
 	Hema - Plants
 	Install Webex on desktop
 	Find violin/piano schedules at Mission Music for Kriya
 	Dental insurance
-	Nishi to create an account and send me a URL
-	Nishi (Attend 8 hour bootcamp)
-	Remind Sreya about hoodie/earphones/skirt
-	Drop SJ books
 	SanjivG (Set up meeting)
-	SunilP (Set up meeting)
 	Tomas
 	401K
 	Invest in stocks (virtual portfolio for 100K)
 	Pay gardener
-	Call Manasa
 	ChannelLive - Why didn't we get the box?
 
 Tue, Nov19:
 	Hema breakfast
+	Uptodate on C++ Course (Dijkstra, HW3)
 
 Thu, Nov21:
 	Touch base with Vineet
