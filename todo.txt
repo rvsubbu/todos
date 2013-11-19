@@ -1,116 +1,154 @@
-Today, Mon, Nov18:
-	Hema - clothes
-	Nishi (Attend 8 hour bootcamp)
-	Sreya tictactoe [Draw the board, Get the move, check whether won]
-	eLance
-	TCL Prototype for notes project
-	Resumes - EDA, India, Tech, Manager
-	Coursera: Python course
-	Apply for one job
-	Qt - Helloworld
-	Coursera: Data Analysis course
-	Coursera: Algorithms course
-	Coursera: Design Thinking course
-	Coursera: Web Intelligence & Big Data course
-	edX: CS169.1x
-	edX: CS169.2x
-	SkillShare: Running Lean
-	Skills - javascript (backbone.js book)
-	Udacity
-	MIT multithreading course
-	C++ Course - Hex assignment
-	Vidality - Get web server working
-	Vidality - bring up profile
-	TCL - record & replay, debug, megawidget (Graph?)
-	Killawatt
-	Qt - schematic
-	Cadence Jobs
-	Mentor Jobs
-	Synopsys Jobs
-	Sreya - contact Ruth
-	Install Webex on desktop
-	Invest in stocks (virtual portfolio for 100K)
-
-Tue, Nov19:
-	Clean the windshield
-	Remind Sreya about hoodie/earphones/skirt
-	Nishi (Lego)
-	Vaccum (downstairs, upstairs)
-	Hema breakfast
-	Hema - Plants
-	Call Manasa
-	Dental insurance
-	Uptodate on C++ Course (Dijkstra, HW3)
-	Meet Sunil at 11
-	Find violin/piano schedules at Mission Music for Kriya
-	SanjivG (Set up meeting)
-	Mini-Pharmacy
-	Fix cycle
-	Tomas
-	401K
-	ChannelLive - Why didn't we get the box?
-	Gymnastics decision
+Today, Tue, Nov19:
+	Clomobile:
+		TCL Prototype for notes project
+	Jobs:
+		Resumes - EDA, India, Tech, Manager
+		Apply for one job
+		Cadence Jobs
+		Mentor Jobs
+		Synopsys Jobs
+		Qt - Helloworld
+	Sreya:
+		Tictactoe [Draw the board, Get the move, check whether won]
+		Contact Ruth Burson
+		Remind about hoodie/earphones/skirt
+		Nishi (Lego)
+		Fix cycle
+	Contracting:
+		eLance
+	Courses:
+		Coursera: Python course
+		Coursera: Data Analysis course
+		Coursera: Algorithms course
+		Coursera: Design Thinking course
+		Coursera: Web Intelligence & Big Data course
+		Uptodate on C++ Course (Dijkstra, HW3)
+		edX: CS169.1x
+		edX: CS169.2x
+		SkillShare: Running Lean
+		Skills - javascript (backbone.js book)
+		Udacity
+		MIT multithreading course
+		C++ Course - Hex assignment
+	Vidality:
+		Get web server working
+		Bring up profile
+		Buy a cheap emulator from Best Buy
+	Skills:
+		TCL - record & replay, debug, megawidget (Graph?)
+		Become familiar with AWS
+		Phonegap tutorial
+		JQuery
+		JQueryMobile
+		HTML5 & CSS
+		PHP
+		SugarCRM
+	Household:
+		Killawatt
+		Clean the windshield
+		Vaccum (downstairs, upstairs)
+		Hema breakfast
+		Hema Plants
+		Hema - dishes
+		Kids - Pork Chops
+		Own - Salad
+		Dental insurance
+		Tomas
+		ChannelLive - Why didn't we get the box?
+	Finances:
+		Invest in stocks (virtual portfolio for 100K)
+		401K
+		NRE account
+	Support Structure:
+		Malpi
+		Manish
+	GetResource:
+		Resolve webex issues
+		Nishi's idea on Ordering food (Keeping a record of food preferences, history, Mahavir)
+	Network:
+		Rajinder Gupta
+		Meet Sunil at 11
+		SanjivG (Set up meeting)
+		Indu Ramesh (What can we do together?)
+	Family:
+		Call Manasa
+	Projects:
+		Qt - schematic
+		Write an (FPGA) placer/router
+		Create a Hadoop training
+	Kriya:
+		Find violin/piano schedules at Mission Music for Kriya
+		Nishi (Lego)
+		Gymnastics decision
+		Kriya electronics
+	Health:
+		Mini-Pharmacy
+	Writing:
+		Write for Manish
+		Jeyamohan
+		SiShelf Post
 
 Thu, Nov21:
-	Touch base with Vineet
-	Gymnastics class
+	Synopsys:
+		Touch base with Vineet
+	Household::
+		Gymnastics class
+		Newark lib
 
 Fri, Nov22:
-	Tennis
-	Stitch the pant
+	Kriya:
+		Tennis
+	Household:
+		Stitch the pant
+		Hema - clothes
 
 Sat, Nov23:
-	Renew books
-	Sreya music class
-	Paul Campbell about Nisum + recruiter
-	Vidality trip
+	Household:
+		Renew books
+		Sreya music class
+	Jobs:
+		Paul Campbell about Nisum + recruiter
+		Recruiting for Vidality
+	Vidality:
+		Vidality trip
 
 Sun, Nov24:
-	Rajan
-	Trash
+	Network:
+		Rajan
+	Household:
+		Trash
 
 Mon, Nov25:
-	Atthai
-	TK Ramesh (His plan, my plan, what can we do together?)
-	Mukesh
-	Shenba
-	SJ Lib
+	Family:
+		Atthai
+	Network:
+		TK Ramesh (His plan, my plan, what can we do together?)
+		Mukesh
+		Shenba
+	Household:
+		SJ Lib
 
 Mon, Dec2:
-	Pay gardener
+	Household:
+		Pay gardener
 
 Wed, Jan1:
-	Shanthi-Sriram-Nividha
-	Sivaguru
-	LA Mohan
-	Pudukkottai Kumar
-	Sridhar - Pranav's Dad
-	Ramani
-	Varun
-	Bharatanatyam for Kriya
-	Geography Bee
+	Family:
+		Shanthi-Sriram-Nividha
+		LA Mohan
+		Pudukkottai Kumar
+	Friends:
+		Sivaguru
+		Sridhar - Pranav's Dad
+		Ramani
+		Varun
+	Kriya:
+		Bharatanatyam for Kriya
+		Geography Bee
+	Sreya:
+		Geography Bee
 
 Schedule:
-	Become familiar with AWS
-	Indu Ramesh (What can we do together?)
-	Kriya electronics
-	NRE account
-	Malpi
-	Manish
-	Write for Manish
-	Jeyamohan
-	SiShelf Post
-	Buy a cheap emulator from Best Buy
-	Phonegap tutorial
-	JQuery
-	JQueryMobile
-	HTML5 & CSS
-	PHP
-	SugarCRM
-	Write an (FPGA) placer/router
-	Create a Hadoop training
-	Nishi's idea on Ordering food (Keeping a record of food preferences, history, Mahavir)
-	Rajinder Gupta
 
 Inbox:
 
