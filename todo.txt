@@ -1,20 +1,12 @@
 Today, Mon, Nov18:
-	Sreya tictactoe [Draw the board, Get the move, check whether won]
-	Remind Sreya about hoodie/earphones/skirt
-	Nishi to create an account and send me a URL
+	Hema - clothes
 	Nishi (Attend 8 hour bootcamp)
-	Nish (Lego)
-	SunilP (Set up meeting)
-	Drop SJ books
-	Medical test
-	Call Manasa
-	C++ Course - Hex assignment
+	Sreya tictactoe [Draw the board, Get the move, check whether won]
 	eLance
 	TCL Prototype for notes project
 	Resumes - EDA, India, Tech, Manager
 	Coursera: Python course
 	Apply for one job
-	Clean the windshield
 	Qt - Helloworld
 	Coursera: Data Analysis course
 	Coursera: Algorithms course
@@ -26,35 +18,38 @@ Today, Mon, Nov18:
 	Skills - javascript (backbone.js book)
 	Udacity
 	MIT multithreading course
+	C++ Course - Hex assignment
 	Vidality - Get web server working
 	Vidality - bring up profile
 	TCL - record & replay, debug, megawidget (Graph?)
 	Killawatt
-	Vaccum (downstairs, upstairs)
-	Gymnastics decision
-	Mini-Pharmacy
 	Qt - schematic
 	Cadence Jobs
 	Mentor Jobs
 	Synopsys Jobs
-	Hema - clothes
 	Sreya - contact Ruth
-	Trash
-	Fix cycle
-	Hema - Plants
 	Install Webex on desktop
-	Find violin/piano schedules at Mission Music for Kriya
-	Dental insurance
-	SanjivG (Set up meeting)
-	Tomas
-	401K
 	Invest in stocks (virtual portfolio for 100K)
-	Pay gardener
-	ChannelLive - Why didn't we get the box?
 
 Tue, Nov19:
+	Clean the windshield
+	Remind Sreya about hoodie/earphones/skirt
+	Nishi (Lego)
+	Vaccum (downstairs, upstairs)
 	Hema breakfast
+	Hema - Plants
+	Call Manasa
+	Dental insurance
 	Uptodate on C++ Course (Dijkstra, HW3)
+	Meet Sunil at 11
+	Find violin/piano schedules at Mission Music for Kriya
+	SanjivG (Set up meeting)
+	Mini-Pharmacy
+	Fix cycle
+	Tomas
+	401K
+	ChannelLive - Why didn't we get the box?
+	Gymnastics decision
 
 Thu, Nov21:
 	Touch base with Vineet
@@ -72,12 +67,17 @@ Sat, Nov23:
 
 Sun, Nov24:
 	Rajan
+	Trash
 
 Mon, Nov25:
 	Atthai
 	TK Ramesh (His plan, my plan, what can we do together?)
 	Mukesh
 	Shenba
+	SJ Lib
+
+Mon, Dec2:
+	Pay gardener
 
 Wed, Jan1:
 	Shanthi-Sriram-Nividha
