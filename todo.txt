@@ -9,14 +9,17 @@ Today, Tue, Nov19:
 		Synopsys Jobs
 		Qt - Helloworld
 	Sreya:
-		Tictactoe [Draw the board, Get the move, check whether won]
-		Contact Ruth Burson
-		Remind about hoodie/earphones/skirt
 		Nishi (Lego)
 		Fix cycle
+		Tictactoe [Draw the board, Get the move, check whether won]
+		Contact Ruth Burson
+		Check about hoodie/earphones/skirt
 	Contracting:
 		eLance
 	Courses:
+		MIT multithreading course
+		Udacity
+		C++ Course - Hex assignment
 		Coursera: Python course
 		Coursera: Data Analysis course
 		Coursera: Algorithms course
@@ -27,66 +30,84 @@ Today, Tue, Nov19:
 		edX: CS169.2x
 		SkillShare: Running Lean
 		Skills - javascript (backbone.js book)
-		Udacity
-		MIT multithreading course
-		C++ Course - Hex assignment
 	Vidality:
 		Get web server working
 		Bring up profile
 		Buy a cheap emulator from Best Buy
 	Skills:
+		JQuery
 		TCL - record & replay, debug, megawidget (Graph?)
 		Become familiar with AWS
 		Phonegap tutorial
-		JQuery
 		JQueryMobile
 		HTML5 & CSS
 		PHP
 		SugarCRM
+		Twisted
 	Household:
-		Killawatt
-		Clean the windshield
-		Vaccum (downstairs, upstairs)
-		Hema breakfast
-		Hema Plants
-		Hema - dishes
-		Kids - Pork Chops
-		Own - Salad
-		Dental insurance
 		Tomas
+		Pomegranate
+		Clean the windshield
+		Honda Check engine
+		Groceries @ Costco (return kirkland and buy tide)
+		Dental insurance
 		ChannelLive - Why didn't we get the box?
+		get mail
+		Vaccum (downstairs, upstairs)
+		Kids - Pork Chops
+		Groceries @ Raleys (milk, water, bread)
+		Own - Salad
+		4 glasses of milk for kids
+		Kids jump rope
+		Fruits for kids
+		Hema Plants
+		Killawatt
+		File docs
+		Shred docs
 	Finances:
-		Invest in stocks (virtual portfolio for 100K)
 		401K
+		Invest in stocks (virtual portfolio for 100K)
 		NRE account
 	Support Structure:
-		Malpi
+		Malpi (91770-00570)
 		Manish
 	GetResource:
 		Resolve webex issues
 		Nishi's idea on Ordering food (Keeping a record of food preferences, history, Mahavir)
 	Network:
-		Rajinder Gupta
 		Meet Sunil at 11
 		SanjivG (Set up meeting)
 		Indu Ramesh (What can we do together?)
-	Family:
-		Call Manasa
+		Rajinder Gupta
 	Projects:
 		Qt - schematic
 		Write an (FPGA) placer/router
 		Create a Hadoop training
+		Hadoop Article for Hema
 	Kriya:
-		Find violin/piano schedules at Mission Music for Kriya
 		Nishi (Lego)
-		Gymnastics decision
+		Find violin/piano schedules at Mission Music for Kriya
 		Kriya electronics
+		Gymnastics decision
 	Health:
 		Mini-Pharmacy
+		Evening Medication
+		Morning Medication
+		Vaseline
 	Writing:
+		SiShelf Post
 		Write for Manish
 		Jeyamohan
-		SiShelf Post
+
+Tomorrow, Wed, Nov20:
+	Household:
+		Hema breakfast
+		Hema - dishes
+		Air for Merc tires
+	Family:
+		Call Manasa (97896-65075)
+	Jobs:
+		Vmware jobs
 
 Thu, Nov21:
 	Synopsys:
@@ -94,6 +115,9 @@ Thu, Nov21:
 	Household::
 		Gymnastics class
 		Newark lib
+	Family:
+		Call Ammu
+		Call Appa (4263-6982)
 
 Fri, Nov22:
 	Kriya:
@@ -142,21 +166,506 @@ Wed, Jan1:
 		Sridhar - Pranav's Dad
 		Ramani
 		Varun
+	Contacts:
+		Anu Suresh
+		Sugandha Srinath
+		Gowri Kripanandan
 	Kriya:
 		Bharatanatyam for Kriya
+		Swimming class
 		Geography Bee
 	Sreya:
 		Geography Bee
-
-Schedule:
-
-Inbox:
+	Household:
+		Rotate Honda tires
 
 Dependencies:
 	Send Management & Tech resumes to Mohan
+	Call Geetha after sending resumes to Mohan
+	Call Appa (4263-6982) after sending resumes to Mohan
 	Post India resume at Wisdomjobs, naukri, shine
 	Sunday walk: Rajan Balaji Sundaresh Mukin Visu
 	SiShelf Meeting: Rajan Balaji Sundaresh Mukin Visu Kaveri Padmanabhan
 	Synopsys contract: Suresh Gopalratnam, Andy, Naresh, Igor, SunilS, BobE, AndrewD
 	Synopsys Contract: Prakash Bare, Vidya, Subba
+
+Schedule:
+
+Inbox:
+	Sami
+	Kriya solar system projects
+	Kriya centripetal/centrifugal forces
+	Kriya glue
+	Kriya trampoline
+	Comcast
+	Best Buy Rewards
+	Put batteries in fire alarms
+	Perl & Apache book
+	Soap
+	Perfume
+	Macbeth DVD for Sreya
+	Raleys (Milk)
+	Microscope
+	Pick up Kriya
+	Newark Lib
+	Fruits for kids
+	Jump rope
+	Sreya Google SF
+	Sreya Intel SF
+	Sreya Siemens SF
+	Sreya Science Olympiad
+	SreyaKriya Geography Bee
+	SreyaKriya Spelling Bee
+	Sreya Investing: Growing Money
+	Historicity of Jesus
+	Differences between gospels
+	Trig demystified
+	Ian Stewart
+	Sreya Homework
+	Read Sreya's chem book for expt and app ideas
+	Concert tickets
+	Sreya Janksters
+	Sreya guitar practice
+	Sreya writing
+	Ensure Sreya studies every day
+	Make Sreya read Oedipus ahead
+	Sreya conference
+	Brush at night
+	Make kids brush at night
+-------------------------------------
+	Shave
+	Listerine
+	Lunch for Sreya
+	Lunch for Kriya
+	Sreya breakfast
+	Sreya drop
+	Kriya breakfast
+	Hema breakfast
+	Oil change
+	Playroom Papers
+	Garage papers I
+	Garage Papers II
+	Free PC tuneup at Staples (green & Hema) - 404-9565
+	Cook fish
+	SJ Lib
+	Cook Chicken
+	Gym class
+	Costco
+	Target
+	Trinethra
+	Pay Chase
+	Renew books
+	Guitar Class
+	Wash Honda
+	Wash Merc
+	Trash
+-------------------------------------
+	Carpool
+	Pick up kids
+	Kriya extended care
+	Air for tire
+	Charge shaver
+	Pay Amex
+
+Ongoing Projects:
+	Big Data (Sep17):
+	Kriya (Sep17):
+	Sherlock Holmes Book
+	5th Grade Books
+	Mini-Golf
+	Sreya (Sep17):
+	Acne wash; Radar book; Socks book; Throne of Blood, Maqbool; French movie recos;
+	Web 2.0 (Sep17):
+	Twisted (Sep17): Ch2
+	Family (Sep17):
+	Call Manasa (97896-65075); Call Ammu; Call Geetha;
+	Friends (Sep17):
+	Manish; C Siva; TK Ramesh
+
+New Projects:
+	Browser Extension
+	Hema Veena class
+	Kriya Music: Violin class
+	Kriya Tennis class
+	Sreya Skateboarding
+	Sreya Swim: City Sport?
+	Sreya 2014 Alameda County SF
+	Kriya 2014 Science Olympiad
+
+Week of Sep9 achievement plan:
+	Hema - Figure out veena class - wait for some time.
+	Kriya - Figure out Tennis class;
+	Kumar - Fix cycle, Big Data Article
+	Sreya - Figure out Skateboarding
+
+Week of Sep16 plan:
+	Hema - Adjust to Mami-less house
+	Kriya - Figure out Tennis class
+	Kumar - Fix cycle, Big Data Article, Invest, Open NRE account
+	Sreya - Figure out Skateboarding
+
+#Type	Grade	Group	Project	Tasks	Date	Freq	Notes
+Marathon	A	Finance	House	Look for foreclosed houses (in San Ramon)	?	Fri	Goal: New house by Sep 30, 2013
+Marathon	A	Finance	Stocks	HP Stock Value	?	Mon,Tue,Wed,Thu,Fri
+Marathon	A	Fun	Kids	Great America	Jun8
+Marathon	A	Fun	Kids	Water Park	Jun8
+Marathon	A	Household	Clean	Vaccum	Jun1
+Marathon	A	Household	Garden	Fix Trees+Fence	Jun1	?	Atonel: 510-792-5834
+Marathon	A	Kids	Achievement	Spelling Bee	Jun1
+Marathon	A	Kids	Health	Jump rope for kids	Jun1
+Marathon	A	Kids	Summer	Define family web site	Jun1
+Marathon	A	Network	Reputation	LinkedIn	?	Fri
+Marathon	A	Planning	GTD	gmail	?	Daily
+Marathon	A	Showcase	Coupon	Spec	Jun1
+Marathon	A	Showcase	DigitalWallet	Digital wallet	?	Fri
+Marathon	A	Showcase	Misc	Google Reader Spec	Jun1	?	Google Reader going away on Jul1, extract data before that, easy replacement would get eyeballs
+Marathon	A	Skills	Cloud	Dropbox	Jun1
+Marathon	A	Skills	Courses	Coursera	?	Fri
+Marathon	A	Skills	Courses	edX	?	Fri
+Marathon	B	Clomobile	Idea	Restaurant Apps	Jun3	?	ROPS, InNOut, gimmegrub, theIndianList, yelpMobile, OpenTable, Waitlist App, Tabbedout
+Marathon	B	Clomobile	Idea	eScorer	?	?	xxx
+Marathon	B	Clomobile	Setup	Kickstarter, Y Combinator	Jul1
+Marathon	B	Family	Family	Parents	?	Sat
+Marathon	B	Family	India	Talk to Manasa	Jun1	?	44-4357-8205, 97896-65075
+Marathon	B	Finance	Account	Reduce Property Taxes
+Marathon	B	Finance	Accounts	Mortgage	?	1st	800-274-6600; June mortgage paid, id# 0529135365, rep Sana (id 5365)
+Marathon	B	Finance	Accounts	Revisit HomeIns+Geico+Farmers	Jun1
+Marathon	B	Finance	India	Parents financial records	Oct1
+Marathon	B	Finance	Stocks	Create a watchlist for Apple 100, SPDR S&amp;P 500 100, Microsoft 500, Acacia Research 500, Alexion Pharma 100	Jun1
+Marathon	B	Finance	Stocks	HP Stocks	?	Fri
+Marathon	B	Finance	Stocks	Watch Candidates	Jun1
+Marathon	B	Fun	Kids	Raging Waters	Jun1
+Marathon	B	Fun	Mami	Bharathi Tamil Sangam Program - Check with Hema	Jun1
+Marathon	B	Health	Dental	Dentist	Jun11	?	12:30 p.m.
+Marathon	B	Health	Diabetes	Reversing Diabetes	?	Fri
+Marathon	B	Health	Exercise	Weekly walk	?	Sat,Sun	Network with Tamil group
+Marathon	B	Health	Grooming	Brush at night	?	Daily
+Marathon	B	Household	Auto	Oil Change	Jun1	?	America Tire (792-3867)
+Marathon	B	Household	Auto	Rotate Tires	Jun1	?	America Tire (792-3867)
+Marathon	B	Household	Clean	Clothes	?	Fri,Sat,Sun
+Marathon	B	Household	Clean	Dishes	Sep1
+Marathon	B	Household	Clean	Trash	?	Sun,Mon
+Marathon	B	Household	Festivals	Christmas decorations	Dec1	?	Lights, Snowman, Tree, Gifts, Christmas in the Park
+Marathon	B	Household	Festivals	Golu	Oct1	?	Set up, Pack up
+Marathon	B	Household	Fix	Change TV	Jun1
+Marathon	B	Household	Fix	Fix cycle	Jun1
+Marathon	B	Household	Fix	Free PC tuneup at Staples (green & Hema)	Jun3	?	404-9565
+Marathon	B	Household	Fix	Honda dents	Jul1
+Marathon	B	Household	Fix	Mercedes scratches	Jul1
+Marathon	B	Household	Fix	counter disfigurement	Jun1
+Marathon	B	Household	Fix	garage door	Jul1
+Marathon	B	Household	Payments	Flex Spending Card	Jun1
+Marathon	B	Household	Payments	Mini-Pharmacy	Jun1
+Marathon	B	Household	Payments	Pay Amex	?	5th
+Marathon	B	Household	Payments	Pay Chase	?	20th
+Marathon	B	Household	Payments	Pay PAMF bill	Jun1
+Marathon	B	Jobs	Check	Intel Jobs	Jun2	Fri
+Marathon	B	Jobs	Check	Intuit	Jun2	Fri
+Marathon	B	Jobs	Check	Lab126 Jobs	Jun2	Fri
+Marathon	B	Jobs	Check	Mentor	Jun2	Fri
+Marathon	B	Jobs	Check	Tesla	Jun2	Fri
+Marathon	B	Jobs	Check	Vmware	Jun2	Fri
+Marathon	B	Jobs	Check	edX Jobs	?	Fri
+Marathon	B	Jobs	Strategy	Twitter for Job Search	Jun1
+Marathon	B	Jobs	Strategy	startwire	?	Fri
+Marathon	B	Kids	Achievement	Barnes and Noble Summer Reading	Jun1
+Marathon	B	Kids	Achievement	Carnatic music from Mami	Jun1	?	Veena+Paattu
+Marathon	B	Kids	Fun	Baloon rides	Jun1
+Marathon	B	Kids	Fun	Chabot Space and Science Center	Jun1	?	BOFA cards
+Marathon	B	Kids	Fun	SFO Legion of Honor Museum, Tech Museum, San Jose Museum of Art, de Young Museum - BOFA cards	?	1st	1st weekend of a month
+Marathon	B	Kids	Fun	Silliman	Jun1
+Marathon	B	Kids	Health	3 times milk for kids	Jun1
+Marathon	B	Kids	Health	Fruit for kids	Jun1
+Marathon	B	Kids	Kids	Make kids brush at night	Jun1
+Marathon	B	Kriya	Achievement	Newberry Medal Winners	Jun1
+Marathon	B	Kriya	Fun	Extended Care	Jun1
+Marathon	B	Kriya	Fun	Storytime	Jun1
+Marathon	B	Network	Bags	KB Chandrasekhar
+Marathon	B	Network	Extended	Ammu	Jun1
+Marathon	B	Network	Extended	Shenba	Jun1
+Marathon	B	Network	Extended	Siva Natarajan	Jun1
+Marathon	B	Network	Misc	Fang Chen	Jun1	?	312-405-5901
+Marathon	B	Network	Misc	Gerry Ignatius	Jul1
+Marathon	B	Network	Misc	Piyush Govil	Jun1
+Marathon	B	Network	Misc	Samba	Jul1
+Marathon	B	Network	Misc	Teddy Rebollo	Jul1
+Marathon	B	Network	SASI	SASI	Jul1
+Marathon	B	Network	St. Josephs	C. Siva	Jun1	?	98413-00155 (quarterly)
+Marathon	B	Network	St. Josephs	VGR	Jun1	?	98413-00155 (quarterly)
+Marathon	B	Planning	GTD	At the end of each workday, make a list of priorities and tasks for the next day. Ensure that these KRAs (jobs, projects, skills, network) are addressed	?	Daily
+Marathon	B	Planning	Motivation	List of Accomplishments	?	Daily
+Marathon	B	Planning	Motivation	Startup DNA	?	Sun
+Marathon	B	Planning	Motivation	Startup Saturdays	?	Fri
+Marathon	B	Planning	Motivation	Startup of You	?	Fri
+Marathon	B	Showcase	HTML5	Hilberts Curve	Jun1
+Marathon	B	Showcase	HTML5	Sieves	Jun1
+Marathon	B	Showcase	HTML5	Sudoku	Jun1
+Marathon	B	Showcase	Javascript	Generate Table of Contents	Jun1
+Marathon	B	Skills	BigData	Passion Driven Stats	Jun1
+Marathon	B	Skills	Cloud	Cloud Drive	Jun1
+Marathon	B	Skills	Cloud	Cloud Foundry	Jun1
+Marathon	B	Skills	Cloud	Microsoft Azure	?	1st
+Marathon	B	Skills	Cloud	icloud	Jun1
+Marathon	B	Skills	Degrees	MBA	Jun1
+Marathon	B	Skills	Degrees	Ph. D?	Jun1
+Marathon	B	Skills	EDA	FPGA C Compiler	Jun8
+Marathon	B	Skills	EDA	Icarus Verilog	Jun8
+Marathon	B	Skills	EDA	MyHDL	Jun8
+Marathon	B	Skills	EDA	PVSim	Jun8
+Marathon	B	Skills	EDA	Udacity Georgia Tech	Jun1
+Marathon	B	Skills	EDA	ZamiaCAD	Jun8
+Marathon	B	Skills	HTML5	HTML5 Instagram	Jun1
+Marathon	B	Skills	Javascript	Build a Plugin-free	Jun1
+Marathon	B	Skills	Misc	Apache	Jun1
+Marathon	B	Skills	Sugar	SugarCRM
+Marathon	B	Writing	Solvanam	Article on Big Data?	Jun1
+Marathon	B	Writing	Writing	Finish smell of fish and send to Jeyamohan	Jun1
+Marathon	B	Writing	Writing	Munge Jilting of Granny Weatherall	Jun1
+Marathon	B	Writing	Writing	Translate Aswatthama story and send to Manish	Jun1
+Marathon	C	Clomobile	Idea	Amex - Pay with Tweets	?	Fri
+Marathon	C	Clomobile	Idea	App - Mailbox	?	1st
+Marathon	C	Clomobile	Idea	Pharma Ideas	?	?	Chitra?
+Marathon	C	Clomobile	Idea	Serial Entrepreneurs	Jun1
+Marathon	C	Clomobile	Idea	Yahoo Buys Alike	?	1st
+Marathon	C	Clomobile	Idea	lilitab
+Marathon	C	Clomobile	Setup	Form Company	Jun27
+Marathon	C	Family	Extended	Babu/Nandini	?	1st
+Marathon	C	Family	Extended	Krishna/Anitha	?	1st
+Marathon	C	Family	Extended	Periappa	?	1st
+Marathon	C	Family	Extended	Shankar+Sowmya	?	1st
+Marathon	C	Family	Family	Geetha	?	Sun
+Marathon	C	Finance	Accounts	BOFA	?	Fri
+Marathon	C	Finance	Accounts	Deposit kids money	Jun1
+Marathon	C	Finance	Accounts	HP flex (Raleys, PAMF, Dentist)	Jun1
+Marathon	C	Finance	Accounts	Irvington Lib	Jun5
+Marathon	C	Finance	Accounts	Keypoint	?	Fri
+Marathon	C	Finance	Accounts	Merrill Edge	?	Fri
+Marathon	C	Finance	Check	Credit Sesame	?	1st
+Marathon	C	Finance	Check	Free credit reports	?	1st
+Marathon	C	Finance	Check	Quizzle	?	1st
+Marathon	C	Finance	India	Kumar/Hemas bank accounts	Oct1	?	Convert them to NRO accounts
+Marathon	C	Finance	Stocks	Neil McNeale (2 for 1 stock splits, hold for 30 mons)	?	Fri
+Marathon	C	Fun	Books	Renew Books	?	Sat
+Marathon	C	Fun	Kids	Drive-In Theater	Jun1
+Marathon	C	Health	Diet	Salad	Jun1
+Marathon	C	Health	Grooming	Shave	?	Daily
+Marathon	C	Health	Grooming	Vaseline	?	Daily
+Marathon	C	Household	Clean	Make beds	?	Daily
+Marathon	C	Household	Fix	Garage Remote	Jul1
+Marathon	C	Household	Fix	Garage light	Jun1
+Marathon	C	Household	Fix	Vonage with alarm setup	Jul1
+Marathon	C	Household	Fun	Return Silver Linings Playbook	Jun1
+Marathon	C	Household	Garden	Water plants	Sep1
+Marathon	C	Household	Papers	File docs	?	Daily
+Marathon	C	Household	Papers	Get mail	?	Daily	Process mail everyday
+Marathon	C	Household	Papers	Newspaper	?	Daily
+Marathon	C	Household	Papers	Organize Photos	?	Daily
+Marathon	C	Household	Papers	Process files on Desktop	?	Daily
+Marathon	C	Household	Papers	Process papers	?	Daily
+Marathon	C	Household	Papers	Process textbooks	?	Fri
+Marathon	C	Household	Papers	Shred docs	?	Fri
+Marathon	C	Household	Ride	Art Class	?	Sun
+Marathon	C	Household	Shopping	Costco	?	Thu	Black Printer Cartridge
+Marathon	C	Household	Shopping	HDMI Switcher	Jun2
+Marathon	C	Household	Shopping	Raleys	?	Thu
+Marathon	C	Household	Shopping	Target	?	Thu
+Marathon	C	Household	Shopping	Trinethra	?	Thu
+Marathon	C	Household	Shopping	Wired Wii Controller	Jun7
+Marathon	C	Jobs	Strategy	How to land a job at Tumblr	Jun1
+Marathon	C	Jobs	Strategy	Jobzmatch	Jun1
+Marathon	C	Jobs	Strategy	West Valley Staffing Group	Jun1
+Marathon	C	Jobs	Strategy	eLance
+Marathon	C	Kids	Summer	Explore Scratch	Jun1
+Marathon	C	Network	FrontLine	Albert	?	1st
+Marathon	C	Network	FrontLine	Badru	?	1st
+Marathon	C	Network	FrontLine	Shyam	Jun1
+Marathon	C	Network	FrontLine	Vineet	?	1st
+Marathon	C	Network	FrontLine	Vivek	?	1st
+Marathon	C	Network	Kriya	Varun Sharma	?	Fri
+Marathon	C	Network	Misc	Anil Khatri	?	1st
+Marathon	C	Network	Misc	Anthony Vendhan	Jul1
+Marathon	C	Network	Misc	Guru	Jul1
+Marathon	C	Network	Misc	Henry Torres	Jul1
+Marathon	C	Network	Reputation	BrandYourself	?	Fri
+Marathon	C	Network	Reputation	Recmnd.me	?	Fri
+Marathon	C	Network	St. Josephs	Maran	Jun1	?	404-723-8217
+Marathon	C	Network	St. Josephs	N. Ramesh	Jun1
+Marathon	C	Network	St. Josephs	P.T. Hariharan	Jun1
+Marathon	C	Network	Synp	Veera Veerapatthiran	Jun1
+Marathon	C	Network	Tamil	Balaji Nambi	?	1st
+Marathon	C	Network	Tamil	Konar	Jun1
+Marathon	C	Network	Tamil	Rajan	?	Sat
+Marathon	C	Planning	GTD	Move tasks.numbers	?	Daily
+Marathon	C	Planning	GTD	Yahoo mail	?	Sun
+Marathon	C	Showcase	Coupon	Find	Jun1	?	Reads Barcodes
+Marathon	C	Skills	Cloud	CloudU	?	Fri
+Marathon	C	Skills	Courses	Systematic Program Design	?	Jun1
+Marathon	C	Skills	EDA	Udacity CS101	Jun1
+Marathon	C	Skills	EDA	robei	Jun1
+Marathon	C	Skills	HTML5	HTML5 Validator	?	Fri
+Marathon	C	Skills	Javascript	Book of Javascript by Thau - introductory tutorial, electronic resource at Alameda	Jun1
+Marathon	C	Skills	Javascript	Effective Javascript by David Herman - advanced tutorial, San Jose ebook	Jun3
+Marathon	C	Skills	Javascript	High-Performance Javascript by Nicholas Zakas	Jun1
+Marathon	C	Skills	Javascript	JQuery, jQuery UI & jQuery Mobile by Adrianan de Jonge & Phil Duston - San Jose ebook	Jun3
+Marathon	C	Skills	Javascript	Javascript Patterns by Stoyan Stefanov - San Jose ebook	Jun3
+Marathon	C	Skills	Javascript	Pro Javascript Performance by Tom Barker - San Jose ebook	Jun3
+Marathon	C	Skills	Misc	Blackberry/Windows 8 Apps
+Marathon	C	Skills	Misc	Google Dart	Jun1
+Marathon	C	Skills	Misc	SolveForX
+Marathon	C	Skills	Tools	How to use github	Jun1
+Marathon	C	Writing	Solvanam	Book review for Mo Yan & Denise Minas books	Jun1
+Marathon	C	Writing	Solvanam	George Saunders	Jun1
+Marathon	C	Writing	Solvanam	Translate Jeremy Grantham	Jun1	?	Goal: Regular contributor to Solvanam (one article every issue)
+Relax	C	Fun	Books	Ashoka Book	Jun15
+Relax	C	Fun	Books	Charlie Wilsons War	Jun15
+Relax	C	Fun	Books	Niall Ferguson	Jun15
+Relax	C	Fun	Films	Aravaan	Jun15
+Relax	C	Fun	Films	Avargal	Jun1
+Relax	C	Fun	Films	Bhagap Pirivinai	Jun2
+Relax	C	Fun	Films	Charlie Wilsons War	Jun15
+Relax	C	Fun	Films	Idhaya Veenai	Jun3
+Relax	C	Fun	Films	Iru Nilavugal	Jun4
+Relax	C	Fun	Films	Jeans	Jun1
+Relax	C	Fun	Films	Kaadhal Oviyam	Jun5
+Relax	C	Fun	Films	Kadal Pookkal	Jun1
+Relax	C	Fun	Films	Kumki	Jun6
+Relax	C	Fun	Films	Maalaiyitta Mangai	Jun7
+Relax	C	Fun	Films	Naan	Jun8
+Relax	C	Fun	Films	Pizza	Jun1
+Relax	C	Fun	Films	Oru Odai Nadhiyagiradhu	Jun9
+Relax	C	Fun	Films	Redbox	?	Fri
+Relax	C	Fun	Films	Thirumalai Dheivam	Jun10
+Relax	C	Fun	Films	Udhirip Pookkal	Jun11
+Relax	C	Writing	SiShelf	Behind the Beautiful Forevers	Jun15
+Relax	C	Writing	SiShelf	Karuttha Lebbai	Jun1
+Relax	C	Writing	SiShelf	Meeting	Jun2	?	2:00 p.m. at Bags
+Sprint	A	Clomobile	BigDataTraining	Amazon Cloud Setup	Jun1
+Sprint	A	Clomobile	BigDataTraining	Big Data Course Design	Jun1
+Sprint	A	Clomobile	BigDataTraining	Cloudera Partnership	Jun1
+Sprint	A	Clomobile	BigDataTraining	Presentation for Sridhar	Jun1
+Sprint	A	Clomobile	Hari	Alteryx	Jun1
+Sprint	A	Clomobile	Hari	Hari	Jun1	?	609-851-7190
+Sprint	A	Clomobile	Hari	RFP prep	Jun1
+Sprint	A	Clomobile	India	Mahavir	Jun1
+Sprint	A	Clomobile	Router	App for my router	Jun1
+Sprint	A	Clomobile	Router	F1rstLook spec rewrite	Jun1
+Sprint	A	Clomobile	Setup	Re-image Hemas PC	Jun1
+Sprint	A	Family	Extended	Indhu Ramesh	Jun1
+Sprint	A	Finance	Accounts	Hema 401K	Jun1	?	Rollover
+Sprint	A	Finance	Accounts	Kumar Avant! 401K	Jun1
+Sprint	A	Finance	Accounts	Kumar Synp 401K	Jun1
+Sprint	A	Finance	Taxes	2011 Taxes	Jun3
+Sprint	A	Health	Depression	Acknowledge and act on depression	?	Daily
+Sprint	A	Health	Diabetes	2x Medication	?	Daily
+Sprint	A	Health	Diabetes	Measure Sugar	Jun1
+Sprint	A	Health	Diet	Diet	Jun1
+Sprint	A	Health	Doctor	Blood test	Jun15
+Sprint	A	Health	Doctor	Change Doctor	Jun3
+Sprint	A	Health	Doctor	Doctor Visit	?	?	Muscle pain. Stop statins?
+Sprint	A	Health	Doctor	Dr. Wright	Jun3
+Sprint	A	Health	Exercise	1 mile on treadmill	Jun1
+Sprint	A	Health	Exercise	10 pushups	Jun1
+Sprint	A	Health	Exercise	30 min walk	Jun1
+Sprint	A	Jobs	Apply	Amazon SW Dev Mgr	Jun1
+Sprint	A	Jobs	Apply	Amazon Sr. Tech Prog Mgr	Jun1
+Sprint	A	Jobs	Apply	Amazon Sr. Tech Prog Mgr Kindle	Jun1
+Sprint	A	Jobs	Apply	Amazon Tech Prog Mgr	Jun1
+Sprint	A	Jobs	Apply	Apple Engg. Prog Mgr	Jun1
+Sprint	A	Jobs	Apply	Apple Sr. Engg. Prog Mgr	Jun1
+Sprint	A	Jobs	Apply	Armada Job	Jun1
+Sprint	A	Jobs	Apply	Balaji Job	Jun1
+Sprint	A	Jobs	Apply	Brady Job	Jun1
+Sprint	A	Jobs	Apply	Cisco HW/SW Prog Mgr	Jun1
+Sprint	A	Jobs	Apply	EDA Infrastructure Engr	Jun1
+Sprint	A	Jobs	Apply	EDA SW Engr	Jun1
+Sprint	A	Jobs	Apply	Evault Sr. Prog Mgr	Jun1
+Sprint	A	Jobs	Apply	Intel Senior SW Pgm Mgr	Jun1
+Sprint	A	Jobs	Apply	Lab126 Principal Tech Prog Mgr	Jun1
+Sprint	A	Jobs	Apply	Lab126 Sr. Tech Prog Mgr	Jun1
+Sprint	A	Jobs	Apply	McAFee Sr. Prog Mgr	Jun1
+Sprint	A	Jobs	Apply	Nvidia SW Prog Mgr	Jun1
+Sprint	A	Jobs	Apply	Nvidia Sr. EDA SW Developer	Jun1
+Sprint	A	Jobs	Apply	Nvidia Tegra SW Devtools Mgr	Jun1
+Sprint	A	Jobs	Apply	Twitter Sr. Tech Prog Mgr	Jun1
+Sprint	A	Jobs	Apply	Xilinx Sr. Staff SW Engr	Jun1
+Sprint	A	Jobs	Apply	Xilinx Staff SW Engr	Jun1
+Sprint	A	Jobs	Apply	Yahoo Sr. Tech Prog Mgr	Jun1
+Sprint	A	Jobs	India	Microsemi India job	Jun1	?	Expires by May27
+Sprint	A	Jobs	India	NetApp SW Engg. Dir	Jun1
+Sprint	A	Jobs	Resume	Resume Improvements	Jun1
+Sprint	A	Jobs	Resume	Update Resume	Jun1	?	Send to KrishnaJ
+Sprint	A	Network	FrontLine	Krishna Jhaveri	Jun1	?	408-685-5504
+Sprint	A	Network	FrontLine	Mukesh	Jun1
+Sprint	A	Network	NotreDame	Sanjiv Gupta	Jun1
+Sprint	A	Network	NotreDame	SunilP	Jun1
+Sprint	A	Network	SASI	GV	Jun2
+Sprint	A	Network	SASI	Rajiv	Jun2
+Sprint	A	Network	SASI	Santana Sriram	?	1st	87544-86742, 44-2448-5495
+Sprint	A	Network	Support	Malpi	Jun1
+Sprint	A	Network	Support	Manish	Jun1
+Sprint	A	Network	Support	TK Ramesh	?	Fri	80-2353-3978, 98456-94194
+Sprint	A	Network	Synp	Andrew D	Jun2
+Sprint	A	Network	Synp	Andy Crews	Jun2
+Sprint	A	Network	Synp	Ashish S	Jun2
+Sprint	A	Network	Synp	Bob E	Jun2
+Sprint	A	Network	Synp	Naresh M	Jun2
+Sprint	A	Network	Synp	Sunil A	Jun2
+Sprint	A	Network	Tamil	Balaji	?	Sat
+Sprint	A	Network	Tamil	Sri Srinivasa	Jun1
+Sprint	A	Network	Tamil	Sundaresh	?	Sat
+Sprint	A	Planning	Sprint	Define Jun30 Sprint	Jun1
+Sprint	A	Planning	Support	Bags	Jun1
+Sprint	A	Planning	Support	Monitor daily progress with Hema	Jun2
+Sprint	A	Planning	Support	Weekly meeting with Hema	?	Sat
+Sprint	A	Showcase	Cloud	Rolodex on cloud prototype	Jun1
+Sprint	A	Showcase	OpenSource	Identify a project	Jun1
+Sprint	A	Showcase	Perl	TaskMgr	Jun1
+Sprint	A	Showcase	Python	TaskMgr Spec	Jun1	?	Make this a proper web page
+Sprint	A	Showcase	School	Challenger Spec	Jun1
+Sprint	A	Showcase	Tools	git	Jun1
+Sprint	A	Showcase	iOS	License App	Jun1
+Sprint	A	Skills	BigData	Intro to Data Science	Jun1
+Sprint	A	Skills	C++	Bills Doc	Jun1
+Sprint	A	Skills	C++	STL	Jun1
+Sprint	A	Skills	Hadoop	Hien, spec/prototype tutorial	Jun1
+Sprint	A	Skills	Javascript	Eloquent Javascript	Jun1
+Sprint	A	Skills	Javascript	Javascript, definitive guide by David Flanagan - advanced tutorial, San Jose	Jun1
+Sprint	A	Skills	Misc	Google University	Jun1
+Sprint	A	Skills	Perl	Learning Perl	Jun1
+Sprint	A	Skills	Python	Python Std Lib	Jun1
+Sprint	A	Skills	Ruby	Ruby project decision+spec	Jun1
+Sprint	A	Skills	iOS	Abhishek Mishra book	Jun1
+Sprint	A	Skills	iOS	Stanford iPhone course	Jun1
+Sprint	A	Sreya	Achievement	Contests	Jun1		Geography Bee, Intel, Siemens, Science Fair
+Sprint	A	Sreya	Achievement	Summer Education	Jun1	?	10th grade math, 10th grade science, programming
+Sprint	B	Clomobile	BigDataTraining	edurekha	Jun3
+Sprint	B	Finance	Taxes	W4	Jun3
+Sprint	B	Health	Diabetes	Log food/exercise	Jun1
+Sprint	B	Health	Exercise	Basketball with Kriya	Jun1
+Sprint	B	Health	Exercise	Tennis with Bags?	Jun1
+Sprint	B	Health	Exercise	Tennis with Kriya	Jun1
+Sprint	B	Household	Ride	Create new Carpool	Jun15
+Sprint	B	Network	Face2Face	Bags	Jun1
+Sprint	B	Network	Tamil	Uppili Srinivas	Jun3	?	PMP cost, usefulness
+Sprint	B	Showcase	C++	C++ project decision+spec	Jun1
+Sprint	B	Showcase	EDA	EDA project decision+spec	Jun1
+Sprint	B	Skills	C++	Boost Libs	Jun8
+Sprint	B	Skills	EDA	Algorithms	Jun1
+Sprint	B	Skills	EDA	Liquid Metal	Jun1
+Sprint	B	Skills	EDA	Udacity Functional Hardware Verification	Jun1
+Sprint	B	Skills	Hadoop	eGanesh	Jun1
+Sprint	B	Skills	Mac	Mac Development	Jun1
+Sprint	B	Skills	PHP	Stanford job with Bags	Jun3
+Sprint	B	Skills	PHP	Andrea Tarr book	Jun1
+Sprint	B	Skills	PMP	PMI Certification	Jun1
+Sprint	B	Skills	Web	Enyo/WebOS	Jun1
+Sprint	B	Sreya	Academics	AP Course	Jun1
+Sprint	B	Sreya	Academics	English grades	Jun1
+Sprint	B	Sreya	Academics	Global grades	Jun1
+Sprint	B	Sreya	Academics	Religion grades	Jun1
+Sprint	B	Sreya	Fun	Mission Peak Hike	Jun8
+Sprint	B	Sreya	Fun	Newark Library	Jun1
+Sprint	C	Clomobile	BigDataTraining	Sridhar	Jun3	?	edurekha, big data conf, customer needs, expert input
+Sprint	C	Clomobile	Misc	baseautomation	Jun2
+Sprint	C	Skills	Misc	Lua	Jul1
 
